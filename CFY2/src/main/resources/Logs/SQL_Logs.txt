@@ -1,0 +1,1217 @@
+==============================
+2019-10-13T17:55:00.692
+==============================
+Message: No suitable driver found for jdbc:postgresql://dblabs.it.teithe.gr:5432/it175058
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-10-13T17:55:05.295
+==============================
+Message: No suitable driver found for jdbc:postgresql://dblabs.it.teithe.gr:5432/it175058
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-10-26T20:22:09.411
+==============================
+Message: ERROR: syntax error at or near "-"
+  Position: 46
+SQLState: 42601
+ErrorCode: 0
+==============================
+==============================
+2019-10-26T20:22:15.029
+==============================
+Message: ERROR: syntax error at or near "-"
+  Position: 46
+SQLState: 42601
+ErrorCode: 0
+==============================
+==============================
+2019-10-26T20:23:48.796
+==============================
+Message: ERROR: column "type_user" does not exist
+  Position: 28
+SQLState: 42703
+ErrorCode: 0
+==============================
+==============================
+2019-10-26T20:24:23.803
+==============================
+Message: ERROR: column "type_user" does not exist
+  Position: 28
+SQLState: 42703
+ErrorCode: 0
+==============================
+==============================
+2019-10-26T20:27:05.892
+==============================
+Message: ERROR: null value in column "user_id" violates not-null constraint
+SQLState: 23502
+ErrorCode: 0
+==============================
+==============================
+2019-10-26T20:29:03.124
+==============================
+Message: ERROR: null value in column "user_id" violates not-null constraint
+SQLState: 23502
+ErrorCode: 0
+==============================
+==============================
+2019-10-26T20:29:10.642
+==============================
+Message: ERROR: null value in column "user_id" violates not-null constraint
+SQLState: 23502
+ErrorCode: 0
+==============================
+==============================
+2019-10-26T22:02:12.710
+==============================
+Message: ERROR: null value in column "user_id" violates not-null constraint
+SQLState: 23502
+ErrorCode: 0
+==============================
+==============================
+2019-10-26T22:10:08.261
+==============================
+Message: ERROR: null value in column "user_id" violates not-null constraint
+SQLState: 23502
+ErrorCode: 0
+==============================
+==============================
+2019-10-26T22:28:22.477
+==============================
+Message: ERROR: column "type_user" of relation "cfy_accounts" does not exist
+  Position: 47
+SQLState: 42703
+ErrorCode: 0
+==============================
+==============================
+2019-10-26T23:54:32.481
+==============================
+Message: ERROR: schema "cfy" does not exist
+  Position: 22
+SQLState: 3F000
+ErrorCode: 0
+==============================
+==============================
+2019-10-26T23:54:43.304
+==============================
+Message: ERROR: schema "cfy" does not exist
+  Position: 22
+SQLState: 3F000
+ErrorCode: 0
+==============================
+==============================
+2019-10-26T23:56:50.017
+==============================
+Message: ERROR: schema "cfy" does not exist
+  Position: 13
+SQLState: 3F000
+ErrorCode: 0
+==============================
+==============================
+2019-10-27T20:59:23.888
+==============================
+Message: ERROR: relation "products" does not exist
+  Position: 15
+SQLState: 42P01
+ErrorCode: 0
+==============================
+==============================
+2019-10-27T22:26:36.698
+==============================
+Message: ERROR: null value in column "product_id" violates not-null constraint
+SQLState: 23502
+ErrorCode: 0
+==============================
+==============================
+2019-10-29T21:00:06.899
+==============================
+Message: ERROR: null value in column "url_image" violates not-null constraint
+SQLState: 23502
+ErrorCode: 0
+==============================
+==============================
+2019-10-29T21:01:44.450
+==============================
+Message: ERROR: null value in column "url_image" violates not-null constraint
+SQLState: 23502
+ErrorCode: 0
+==============================
+==============================
+2019-10-29T21:05:45.895
+==============================
+Message: ERROR: null value in column "url_image" violates not-null constraint
+SQLState: 23502
+ErrorCode: 0
+==============================
+==============================
+2019-10-29T21:09:27.552
+==============================
+Message: ERROR: null value in column "url_image" violates not-null constraint
+SQLState: 23502
+ErrorCode: 0
+==============================
+==============================
+2019-10-29T21:10:27.137
+==============================
+Message: ERROR: null value in column "url_image" violates not-null constraint
+SQLState: 23502
+ErrorCode: 0
+==============================
+==============================
+2019-10-29T21:12:22.712
+==============================
+Message: ERROR: null value in column "url_image" violates not-null constraint
+SQLState: 23502
+ErrorCode: 0
+==============================
+==============================
+2019-10-29T21:33:49.780
+==============================
+Message: ERROR: null value in column "url_image" violates not-null constraint
+SQLState: 23502
+ErrorCode: 0
+==============================
+==============================
+2019-10-29T21:35:43.833
+==============================
+Message: ERROR: null value in column "url_image" violates not-null constraint
+SQLState: 23502
+ErrorCode: 0
+==============================
+==============================
+2019-10-29T22:24:51.779
+==============================
+Message: The column name image was not found in this ResultSet.
+SQLState: 42703
+ErrorCode: 0
+==============================
+==============================
+2019-10-29T22:25:57.237
+==============================
+Message: The column name image was not found in this ResultSet.
+SQLState: 42703
+ErrorCode: 0
+==============================
+==============================
+2019-10-29T22:28:36.664
+==============================
+Message: The column name image was not found in this ResultSet.
+SQLState: 42703
+ErrorCode: 0
+==============================
+==============================
+2019-10-29T22:31:42.768
+==============================
+Message: The column name image was not found in this ResultSet.
+SQLState: 42703
+ErrorCode: 0
+==============================
+==============================
+2019-10-29T22:32:17.818
+==============================
+Message: The column name image was not found in this ResultSet.
+SQLState: 42703
+ErrorCode: 0
+==============================
+==============================
+2019-10-29T23:34:15.128
+==============================
+Message: The column name url_image was not found in this ResultSet.
+SQLState: 42703
+ErrorCode: 0
+==============================
+==============================
+2019-10-29T23:34:59.315
+==============================
+Message: The column name url_image was not found in this ResultSet.
+SQLState: 42703
+ErrorCode: 0
+==============================
+==============================
+2019-10-29T23:35:45.184
+==============================
+Message: The column name url_image was not found in this ResultSet.
+SQLState: 42703
+ErrorCode: 0
+==============================
+==============================
+2019-10-29T23:35:49.169
+==============================
+Message: The column name url_image was not found in this ResultSet.
+SQLState: 42703
+ErrorCode: 0
+==============================
+==============================
+2019-10-30T07:56:56.291
+==============================
+Message: No suitable driver found for 
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-10-30T07:57:45.688
+==============================
+Message: No suitable driver found for 
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-10-30T07:58:26.429
+==============================
+Message: No suitable driver found for 
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-10-30T07:59:06.532
+==============================
+Message: No suitable driver found for 
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-10-30T08:03:23.586
+==============================
+Message: No suitable driver found for file:/C:/GitHub/CFY/CFY/src/main/resources/images/profile.png
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-10-30T08:04:32.715
+==============================
+Message: No suitable driver found for file:/C:/GitHub/CFY/CFY/src/main/resources/images/profile.png
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-10-30T08:06:07.538
+==============================
+Message: No suitable driver found for file:/C:/GitHub/CFY/CFY/src/main/resources/images/profile.png
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-10-30T08:08:11.310
+==============================
+Message: No suitable driver found for file:/C:/GitHub/CFY/CFY/src/main/resources/images/profile.png
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-10-30T08:09:45.574
+==============================
+Message: No suitable driver found for file:/C:/GitHub/CFY/CFY/src/main/resources/images/profile.png
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-10-31T08:26:18.292
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-10-31T08:26:28.332
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-10-31T08:26:41.103
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-10-31T08:28:49.152
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-10-31T08:30:32.263
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-10-31T08:30:46.318
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-10-31T21:46:15.163
+==============================
+Message: ERROR: column "category" does not exist
+  Position: 59
+SQLState: 42703
+ErrorCode: 0
+==============================
+==============================
+2019-10-31T21:46:40.802
+==============================
+Message: ERROR: column "category" does not exist
+  Position: 59
+SQLState: 42703
+ErrorCode: 0
+==============================
+==============================
+2019-10-31T22:58:58.698
+==============================
+Message: ERROR: duplicate key value violates unique constraint "cfy_basket_name_key"
+  Detail: Key (name)=(Adidas A1) already exists.
+SQLState: 23505
+ErrorCode: 0
+==============================
+==============================
+2019-10-31T23:20:25.413
+==============================
+Message: No results were returned by the query.
+SQLState: 02000
+ErrorCode: 0
+==============================
+==============================
+2019-10-31T23:22:35.705
+==============================
+Message: No results were returned by the query.
+SQLState: 02000
+ErrorCode: 0
+==============================
+==============================
+2019-10-31T23:27:01.161
+==============================
+Message: No results were returned by the query.
+SQLState: 02000
+ErrorCode: 0
+==============================
+==============================
+2019-10-31T23:32:14.596
+==============================
+Message: No results were returned by the query.
+SQLState: 02000
+ErrorCode: 0
+==============================
+==============================
+2019-11-07T11:19:25.572
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-11-07T11:19:41.341
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-11-07T11:21:26.653
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-11-07T11:22:23.362
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-11-07T11:22:37.240
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-11-07T11:26:59.875
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-11-07T11:27:14.001
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-11-07T12:19:36.132
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-11-07T12:19:51.569
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-11-08T16:53:04.922
+==============================
+Message: ERROR: null value in column "log_id" violates not-null constraint
+  Where: SQL statement "INSERT INTO cfy_user_logs (operation, oper_time, username, pass, type_user, name, surname, email)
+	VALUES ('U', now(), NEW.username, NEW.password, NEW.type_user, NEW.name, NEW.surname, NEW.email)"
+PL/pgSQL function "update_cfy_user_logs" line 8 at SQL statement
+SQLState: 23502
+ErrorCode: 0
+==============================
+==============================
+2019-11-08T17:19:34.472
+==============================
+Message: ERROR: relation "cfy_user_logs" does not exist
+  Where: PL/pgSQL function "update_cfy_user_logs" line 8 at SQL statement
+SQLState: 42P01
+ErrorCode: 0
+==============================
+==============================
+2019-11-08T17:22:00.675
+==============================
+Message: ERROR: column "operation" of relation "cfy_user_logs" does not exist
+  Where: PL/pgSQL function "update_cfy_user_logs" line 8 at SQL statement
+SQLState: 42703
+ErrorCode: 0
+==============================
+==============================
+2019-11-12T21:07:50.949
+==============================
+Message: ERROR: relation "cfy_logs_user" does not exist
+  Where: PL/pgSQL function "cfy_user_logs_f" line 3 at RETURN QUERY
+SQLState: 42P01
+ErrorCode: 0
+==============================
+==============================
+2019-11-12T21:25:11.858
+==============================
+Message: ERROR: relation "cfy_user_logs_f" does not exist
+  Position: 15
+SQLState: 42P01
+ErrorCode: 0
+==============================
+==============================
+2019-11-12T23:41:56.531
+==============================
+Message: The column name i was not found in this ResultSet.
+SQLState: 42703
+ErrorCode: 0
+==============================
+==============================
+2019-11-13T14:34:19.280
+==============================
+Message: ERROR: duplicate key value violates unique constraint "cfy_accounts_username_key"
+  Detail: Key (username)=(admin) already exists.
+SQLState: 23505
+ErrorCode: 0
+==============================
+==============================
+2019-11-13T14:35:17.678
+==============================
+Message: ERROR: duplicate key value violates unique constraint "cfy_accounts_username_key"
+  Detail: Key (username)=(admin) already exists.
+SQLState: 23505
+ErrorCode: 0
+==============================
+==============================
+2019-11-13T14:36:03.346
+==============================
+Message: ERROR: duplicate key value violates unique constraint "cfy_accounts_username_key"
+  Detail: Key (username)=(admin) already exists.
+SQLState: 23505
+ErrorCode: 0
+==============================
+==============================
+2019-11-13T14:36:27.561
+==============================
+Message: ERROR: null value in column "name" violates not-null constraint
+  Where: SQL statement "INSERT INTO cfy_user_logs (operation, oper_time, username, pass, type_user, name, surname, email)
+	VALUES ('I', now(), NEW.username, NEW.password, NEW.type_user, NEW.name, NEW.surname, NEW.email)"
+PL/pgSQL function "update_cfy_user_logs" line 12 at SQL statement
+SQLState: 23502
+ErrorCode: 0
+==============================
+==============================
+2019-11-13T14:39:53.041
+==============================
+Message: ERROR: duplicate key value violates unique constraint "cfy_accounts_username_key"
+  Detail: Key (username)=(user) already exists.
+SQLState: 23505
+ErrorCode: 0
+==============================
+==============================
+2019-11-13T14:44:51.662
+==============================
+Message: ERROR: null value in column "name" violates not-null constraint
+  Where: SQL statement "INSERT INTO cfy_user_logs (operation, oper_time, username, pass, type_user)
+	VALUES ('I', now(), NEW.username, NEW.password, NEW.type_user)"
+PL/pgSQL function "update_cfy_user_logs" line 11 at SQL statement
+SQLState: 23502
+ErrorCode: 0
+==============================
+==============================
+2019-11-13T20:25:38.183
+==============================
+Message: ERROR: function cfy_accounts_signin_chech(unknown) does not exist
+  Hint: No function matches the given name and argument types. You might need to add explicit type casts.
+  Position: 15
+SQLState: 42883
+ErrorCode: 0
+==============================
+==============================
+2019-11-13T20:26:08.787
+==============================
+Message: ERROR: function cfy_accounts_signin_chech(unknown) does not exist
+  Hint: No function matches the given name and argument types. You might need to add explicit type casts.
+  Position: 15
+SQLState: 42883
+ErrorCode: 0
+==============================
+==============================
+2019-11-13T20:26:35.866
+==============================
+Message: ERROR: function cfy_accounts_signin_chech(unknown) does not exist
+  Hint: No function matches the given name and argument types. You might need to add explicit type casts.
+  Position: 15
+SQLState: 42883
+ErrorCode: 0
+==============================
+==============================
+2019-11-13T20:26:41.038
+==============================
+Message: ERROR: function cfy_accounts_signin_chech(unknown) does not exist
+  Hint: No function matches the given name and argument types. You might need to add explicit type casts.
+  Position: 15
+SQLState: 42883
+ErrorCode: 0
+==============================
+==============================
+2019-11-13T20:27:43.870
+==============================
+Message: ERROR: syntax error at or near "cfy_accounts_signin_add"
+  Position: 1
+SQLState: 42601
+ErrorCode: 0
+==============================
+==============================
+2019-11-13T20:29:05.322
+==============================
+Message: ERROR: syntax error at or near "cfy_accounts_signin_add"
+  Position: 1
+SQLState: 42601
+ErrorCode: 0
+==============================
+==============================
+2019-11-13T20:31:03.484
+==============================
+Message: ERROR: syntax error at or near "cfy_accounts_signin_add"
+  Position: 1
+SQLState: 42601
+ErrorCode: 0
+==============================
+==============================
+2019-11-13T20:31:51.496
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-13T20:33:25.436
+==============================
+Message: ERROR: syntax error at or near "CALL"
+  Position: 1
+SQLState: 42601
+ErrorCode: 0
+==============================
+==============================
+2019-11-13T20:35:04.491
+==============================
+Message: ERROR: syntax error at or near "CALL"
+  Position: 1
+SQLState: 42601
+ErrorCode: 0
+==============================
+==============================
+2019-11-13T20:37:21.735
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-13T20:57:39.876
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-13T20:59:22.090
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-13T21:19:13.935
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-13T21:19:14.316
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-13T21:19:46.088
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-14T01:04:52.915
+==============================
+Message: ERROR: syntax error at end of input
+  Position: 51
+SQLState: 42601
+ErrorCode: 0
+==============================
+==============================
+2019-11-14T01:05:21.538
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-14T01:15:23.901
+==============================
+Message: ERROR: syntax error at end of input
+  Position: 51
+SQLState: 42601
+ErrorCode: 0
+==============================
+==============================
+2019-11-14T01:15:37.956
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-14T01:16:53.280
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-14T01:25:21.795
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-14T01:25:43.802
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-14T09:40:15.303
+==============================
+Message: ERROR: function removeproduct(unknown) does not exist
+  Hint: No function matches the given name and argument types. You might need to add explicit type casts.
+  Position: 15
+SQLState: 42883
+ErrorCode: 0
+==============================
+==============================
+2019-11-14T09:40:38.362
+==============================
+Message: ERROR: function removeproduct(unknown) does not exist
+  Hint: No function matches the given name and argument types. You might need to add explicit type casts.
+  Position: 15
+SQLState: 42883
+ErrorCode: 0
+==============================
+==============================
+2019-11-14T09:40:47.153
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-14T09:46:28.777
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-14T09:46:36.735
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-14T10:19:15.319
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-14T10:22:12.780
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-14T10:57:07.033
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-14T10:57:14.392
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-14T17:47:31.727
+==============================
+Message: ERROR: syntax error at or near "cfy_add_product_to_basket"
+  Position: 1
+SQLState: 42601
+ErrorCode: 0
+==============================
+==============================
+2019-11-14T17:48:07.776
+==============================
+Message: ERROR: syntax error at or near "cfy_add_product_to_basket"
+  Position: 1
+SQLState: 42601
+ErrorCode: 0
+==============================
+==============================
+2019-11-14T17:48:28.428
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-14T17:49:45.294
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-14T17:50:06.115
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-14T17:55:55.267
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-14T17:56:45.809
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-14T17:57:03.885
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-14T18:02:18.716
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-14T18:03:19.080
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-14T18:20:16.581
+==============================
+Message: ERROR: syntax error at or near "cfy_products_add_check"
+  Position: 1
+SQLState: 42601
+ErrorCode: 0
+==============================
+==============================
+2019-11-14T18:20:40.492
+==============================
+Message: An I/O error occurred while sending to the backend.
+SQLState: 08006
+ErrorCode: 0
+==============================
+==============================
+2019-11-14T18:21:34.171
+==============================
+Message: ERROR: function cfy_products_add_check(unknown, unknown, integer, unknown, unknown) does not exist
+  Hint: No function matches the given name and argument types. You might need to add explicit type casts.
+  Position: 15
+SQLState: 42883
+ErrorCode: 0
+==============================
+==============================
+2019-11-14T18:21:45.626
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-14T18:25:49.979
+==============================
+Message: ERROR: function cfy_products_add_check(unknown, unknown, integer, unknown, unknown) does not exist
+  Hint: No function matches the given name and argument types. You might need to add explicit type casts.
+  Position: 15
+SQLState: 42883
+ErrorCode: 0
+==============================
+==============================
+2019-11-14T18:26:10.072
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-14T18:27:55.462
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-14T18:31:30.855
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-14T18:32:14.756
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-15T13:35:44.067
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-11-15T13:47:51.417
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-11-15T13:53:08.558
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-11-15T14:20:25.471
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-11-15T15:12:33.334
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-15T15:15:11.446
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-15T15:15:38.499
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-15T17:44:50.261
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-15T17:46:31.796
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-15T17:55:02.613
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-15T17:58:28.955
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-15T18:02:30.495
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-15T18:07:56.414
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-15T18:21:24.580
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-15T18:27:48.443
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-15T18:37:36.075
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-15T19:15:00.227
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-15T19:24:09.347
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-15T19:31:39.810
+==============================
+Message: A result was returned when none was expected.
+SQLState: 0100E
+ErrorCode: 0
+==============================
+==============================
+2019-11-17T08:47:23.363
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-11-17T12:42:45.174
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-11-17T14:06:48.132
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-11-17T14:08:57.202
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-11-17T14:46:18.350
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-11-17T14:47:31.527
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-11-17T15:11:52.704
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-11-17T15:21:35.720
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-11-17T15:23:22.072
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-11-17T16:41:13.314
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-11-17T16:44:32.238
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-11-17T16:49:07.055
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-11-17T16:51:57.990
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-11-17T16:54:44.625
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-11-17T16:58:01.397
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-11-17T16:59:37.699
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-11-17T17:46:53.106
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-11-17T17:49:45.923
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================
+==============================
+2019-11-17T17:57:05.209
+==============================
+Message: The connection attempt failed.
+SQLState: 08001
+ErrorCode: 0
+==============================

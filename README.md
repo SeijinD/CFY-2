@@ -2,5 +2,5 @@
 
 Store for Clothing.
 
-Project Maven with JavaFX + NoSQL(MonboDB).
+Project Maven with JavaFX + NoSQL(MongoDB).
 

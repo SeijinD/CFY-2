@@ -33,7 +33,7 @@ public class SignInController {
     @FXML
     public void CreateAndGoLogin(ActionEvent event) throws Exception
     {
-        String url_image = "file:/C:/GitHub/CFY/CFY/src/main/resources/images/profile.png";
+        String url_image = "file:/E:/GitHub/CFY-2/CFY2/src/main/resources/images/profile.png";
         String user1 = userNameCreate.getText();
         String pass1 = passwordCreate.getText();
         int type_user1;
@@ -58,11 +58,11 @@ public class SignInController {
                 document.append("password", pass1);
                 document.append("url_image", url_image);
                 document.append("type_user", type_user1);
-                document.append("name", null);
-                document.append("surname", null);
-                document.append("age", null);
-                document.append("gender", null);
-                document.append("email", null);
+                document.append("name", "");
+                document.append("surname", "");
+                document.append("age", 0);
+                document.append("gender", 0);
+                document.append("email", "");
                 account.insertOne(document);
 
                 Stage stage = (Stage) createButton.getScene().getWindow();

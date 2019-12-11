@@ -2,8 +2,6 @@ package com.mycompany.cfy;
 
 import static com.mycompany.cfy.InfoConnection.*;
 
-import java.sql.DriverManager;
-import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 import javafx.collections.FXCollections;

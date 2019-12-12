@@ -21,7 +21,7 @@ import org.bson.types.ObjectId;
 public class BasketController {
     
     @FXML
-    private Button help,buy_products, remove_product,closeButton, refresh_basket;
+    private Button help,buy_products, remove_product,closeButton;
 
     @FXML
     private TableColumn<ProductsModel, String> TableView2Size, TableView2Name;
@@ -36,13 +36,6 @@ public class BasketController {
     private TableView<ProductsModel> TableViewBasket;
     
     @FXML
-    void Refresh_Basket(ActionEvent event)
-    {
-        TableViewBasket.getItems().clear();
-        this.initialize();
-    }
-    
-    @FXML
     void Remove_product(ActionEvent event) throws Exception
     {
         ProductsModel productsModel = TableViewBasket.getSelectionModel().getSelectedItem();
@@ -52,6 +45,7 @@ public class BasketController {
         basket.deleteOne(doc);
         
         price -= productsModel.getPrice();
+        this.initialize();
     }
 
     @FXML

@@ -21,7 +21,7 @@ import org.bson.types.ObjectId;
 public class BasketController {
     
     @FXML
-    private Button help,buy_products, remove_product,closeButton, refresh_basket;
+    private Button help,buy_products, remove_product,closeButton;
 
     @FXML
     private TableColumn<ProductsModel, String> TableView2Size, TableView2Name;

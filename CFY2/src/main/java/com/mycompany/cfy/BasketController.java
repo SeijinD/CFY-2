@@ -21,7 +21,7 @@ import org.bson.types.ObjectId;
 public class BasketController {
     
     @FXML
-    private Button help,buy_products, remove_product,closeButton;
+    private Button help,buy_products, remove_product,closeButton, refresh_basket;
 
     @FXML
     private TableColumn<ProductsModel, String> TableView2Size, TableView2Name;
@@ -45,6 +45,7 @@ public class BasketController {
         basket.deleteOne(doc);
         
         price -= productsModel.getPrice();
+        
         this.initialize();
     }
 
